@@ -3,6 +3,6 @@
 
 o_o
 
-1. [IniParser](/Lab1)
+1. [Lab1](/Lab1)
 
 o_o
